@@ -1,6 +1,6 @@
 Compiled by nyghts
 
-Source: Departament d'Estadística (2022):
+Population Source: Departament d'Estadística (2022):
 
 [Location of Data from Source](https://www.estadistica.ad/portal/apps/sites/#/estadistica-ca/pages/estadistiques-i-dades-detall?Idioma=ca&N2=605&N3=606&DV=1096&From=2022&To=2022&Var=Cap)
 
@@ -9,6 +9,8 @@ Source: Departament d'Estadística (2022):
 [Raw Excel File](https://github.com/nyghts7/andorra/blob/main/POBLACI%C3%93_PER_POBLE1872024_205226.xlsx)
 
 [Processed JSON File](https://github.com/nyghts7/andorra/blob/main/andorra.txt)
+
+Coordinate Data is from [OpenStreetMap](https://www.openstreetmap.org/copyright) via [overpass-turbo.eu](https://github.com/tyrasd/overpass-turbo)
 
 Stats:
 + 44 settlements
