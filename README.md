@@ -1,14 +1,14 @@
 Compiled by nyghts
 
-Source: Departament d'Estadística (2022)
+Source: Departament d'Estadística (2022):
 
-https://www.estadistica.ad/portal/apps/sites/#/estadistica-ca/pages/estadistiques-i-dades-detall?Idioma=ca&N2=605&N3=606&DV=1096&From=2022&To=2022&Var=Cap
+[Location of Data from Source](https://www.estadistica.ad/portal/apps/sites/#/estadistica-ca/pages/estadistiques-i-dades-detall?Idioma=ca&N2=605&N3=606&DV=1096&From=2022&To=2022&Var=Cap)
 
-https://www.estadistica.ad/portal/apps/sites/#/estadistica-en/pages/avis-legal
+[Legal Notice from Source](https://www.estadistica.ad/portal/apps/sites/#/estadistica-en/pages/avis-legal)
 
-[Excel File](https://github.com/nyghts7/andorra/blob/main/POBLACI%C3%93_PER_POBLE1872024_205226.xlsx)
+[Raw Excel File](https://github.com/nyghts7/andorra/blob/main/POBLACI%C3%93_PER_POBLE1872024_205226.xlsx)
 
-[JSON File](https://github.com/nyghts7/andorra/blob/main/andorra.txt)
+[Processed JSON File](https://github.com/nyghts7/andorra/blob/main/andorra.txt)
 
 Stats:
 + 44 settlements
