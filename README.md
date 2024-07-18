@@ -8,6 +8,8 @@ https://www.estadistica.ad/portal/apps/sites/#/estadistica-en/pages/avis-legal
 
 [Excel File](https://github.com/nyghts7/andorra/blob/main/POBLACI%C3%93_PER_POBLE1872024_205226.xlsx)
 
+[JSON File](https://github.com/nyghts7/andorra/blob/main/andorra.txt)
+
 Stats:
 + 44 settlements
 + 81,588 total population
