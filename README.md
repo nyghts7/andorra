@@ -6,7 +6,7 @@ https://www.estadistica.ad/portal/apps/sites/#/estadistica-ca/pages/estadistique
 
 https://www.estadistica.ad/portal/apps/sites/#/estadistica-en/pages/avis-legal
 
-[Excel File]()
+[Excel File](https://github.com/nyghts7/andorra/blob/main/POBLACI%C3%93_PER_POBLE1872024_205226.xlsx)
 
 Stats:
 + 44 settlements
@@ -22,4 +22,4 @@ Stats:
  
 Image of Data:
 
-![Population distribution map of Andorra]()
+![Population distribution map of Andorra](https://github.com/nyghts7/andorra/blob/main/andorra.png)
